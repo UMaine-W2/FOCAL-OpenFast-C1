@@ -46,18 +46,18 @@ FOCAL As Built Full Scale Turbine
 0.97163	0.25	-1.69	207.77	2.753E+07         4.605E+09	
 1.00000	0.25	-1.77	190.09	2.753E+07         4.605E+09	
 ---------------------- BLADE MODE SHAPES ---------------------------------------
-0.013253949170547142   BldFl1Sh(2) - Flap mode 1, coeff of x^2
-2.0969905409500766     BldFl1Sh(3) -            , coeff of x^3
--2.1551003508095734    BldFl1Sh(4) -            , coeff of x^4
-1.7659262841662073     BldFl1Sh(5) -            , coeff of x^5
--0.7210704234772579    BldFl1Sh(6) -            , coeff of x^6
-0.03008779134485143    BldFl2Sh(2) - Flap mode 2, coeff of x^2
-2.3249755647623678     BldFl2Sh(3) -            , coeff of x^3
--4.012699218410927     BldFl2Sh(4) -            , coeff of x^4
-4.5046974670633055     BldFl2Sh(5) -            , coeff of x^5
--1.8470616047595974    BldFl2Sh(6) -            , coeff of x^6
--0.017374330365441948  BldEdgSh(2) - Edge mode 1, coeff of x^2
-3.0497818094928792     BldEdgSh(3) -            , coeff of x^3
--3.7004075077120575    BldEdgSh(4) -            , coeff of x^4
-2.5651437910431514     BldEdgSh(5) -            , coeff of x^5
--0.8971437624585316    BldEdgSh(6) -            , coeff of x^6
+0                      BldFl1Sh(2) - Flap mode 1, coeff of x^2
+0                      BldFl1Sh(3) -            , coeff of x^3
+0                      BldFl1Sh(4) -            , coeff of x^4
+0                      BldFl1Sh(5) -            , coeff of x^5
+1                      BldFl1Sh(6) -            , coeff of x^6
+0                      BldFl2Sh(2) - Flap mode 2, coeff of x^2
+0                      BldFl2Sh(3) -            , coeff of x^3
+0                      BldFl2Sh(4) -            , coeff of x^4
+0                      BldFl2Sh(5) -            , coeff of x^5
+1                      BldFl2Sh(6) -            , coeff of x^6
+0                      BldEdgSh(2) - Edge mode 1, coeff of x^2
+0                      BldEdgSh(3) -            , coeff of x^3
+0                      BldEdgSh(4) -            , coeff of x^4
+0                      BldEdgSh(5) -            , coeff of x^5
+1                      BldEdgSh(6) -            , coeff of x^6
